@@ -1,0 +1,30 @@
+{
+
+  "home": {
+    "listen": "Écoutez de la bonne musique",
+    "description": "bienvenue dans les applications de flux musical FSTE où vous pourrez écouter et publier vos propres chansons",
+    "songs" : "Chansons"
+  },
+  "song": {
+    "comment_count": "Aucun commentaire | 1 commentaire | {count} commentaires"
+  },
+  "register": {
+    "accept": "J'accepte les {0} de Musique",
+    "tos": "Conditions d'utilisation"
+  },
+  "manage": {
+    "my_songs": "Mes Chansons"
+  },
+  "header":{
+    "login": "SE CONNECTER ",
+    "register": " S'INSCRIRE",
+    "about": "A PROPOS",
+    "manage": "GÉRER",
+    "logout": "DÉCONNECTION",
+    "notifications": "NOTIFICATIONS"
+  },
+  "notifications":{
+    "your_notifi": "Votre notifications"
+  },
+  "commented_on": "a commenté sur votre chanson"
+}
