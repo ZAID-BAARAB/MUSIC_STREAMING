@@ -1,6 +1,6 @@
 # music
 
-This project should help get you started developing with Vue 3 in Vite using modern technologies for web developpment.
+This project should help get you started developing with Vue 3 in Vite using modern technologies for web development.
 
 ## Recommended IDE Setup
 
